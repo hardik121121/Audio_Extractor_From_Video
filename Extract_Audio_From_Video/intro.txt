@@ -1,0 +1,7 @@
+Enter any video of your choice and extract audio from that file
+
+Library Used : 
+1. moviepy
+
+format attained mp3
+format given 3gp
